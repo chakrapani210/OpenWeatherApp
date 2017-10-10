@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="error_title">Error</string>
+    <string name="ok">ok</string>
+    <string name="internet_unavailable">Internet Unavailable.</string>
+    <string name="city_name">City Name:</string>
+    <string name="temperature">Temperature :</string>
+    <string name="humidity">Humidity :</string>
+    <string name="pressure">Pressure :</string>
+</resources>
